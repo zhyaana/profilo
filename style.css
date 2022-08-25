@@ -1,0 +1,111 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?ymo8q6');
+  src:  url('fonts/icomoon.eot?ymo8q6#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?ymo8q6') format('truetype'),
+    url('fonts/icomoon.woff?ymo8q6') format('woff'),
+    url('fonts/icomoon.svg?ymo8q6#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-mail-envelope-closed:before {
+  content: "\e901";
+}
+.icon-mail-envelope-open:before {
+  content: "\e900";
+}
+.icon-linegraph:before {
+  content: "\e039";
+}
+.icon-target:before {
+  content: "\e04e";
+}
+.icon-target-arrow:before {
+  content: "\e902";
+}
+.icon-target1:before {
+  content: "\e904";
+}
+.icon-cloud_download:before {
+  content: "\e908";
+}
+.icon-settings_ethernet:before {
+  content: "\e909";
+}
+.icon-graph:before {
+  content: "\e90a";
+}
+.icon-phone-hang-up:before {
+  content: "\e943";
+}
+.icon-location:before {
+  content: "\e947";
+}
+.icon-cogs:before {
+  content: "\e995";
+}
+.icon-sphere:before {
+  content: "\e9c9";
+}
+.icon-sun:before {
+  content: "\e9d4";
+}
+.icon-facebook2:before {
+  content: "\ea91";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
+.icon-whatsapp:before {
+  content: "\ea93";
+}
+.icon-stumbleupon:before {
+  content: "\eace";
+}
+.icon-camera:before {
+  content: "\e90f";
+}
+.icon-books:before {
+  content: "\e920";
+}
+.icon-file-video:before {
+  content: "\e92a";
+}
+.icon-stack:before {
+  content: "\e92e";
+}
+.icon-folder-open:before {
+  content: "\e930";
+}
+.icon-map2:before {
+  content: "\e94c";
+}
+.icon-display:before {
+  content: "\e956";
+}
+.icon-database:before {
+  content: "\e964";
+}
+.icon-embed2:before {
+  content: "\ea80";
+}
+.icon-dropbox:before {
+  content: "\eaae";
+}
